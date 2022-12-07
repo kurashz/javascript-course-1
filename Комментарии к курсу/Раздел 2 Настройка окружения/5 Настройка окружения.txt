@@ -1,0 +1,5 @@
+https://www.google.com/intl/ru_ru/chrome/
+https://iterm2.com/
+https://git-fork.com/
+https://code.visualstudio.com/
+https://github.com/AlariCode/7-javascript-1
